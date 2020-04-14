@@ -2,4 +2,5 @@
 ##### 效果图1
 ![img1](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_1.png)
 ##### 效果图2
+![img2](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_2.png)
 ##### ImagesPipeline关键代码块
