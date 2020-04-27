@@ -3,6 +3,6 @@
 ##### 结果截图1
 ![img1](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_1.png)
 ##### spider爬虫文件里，有关"详情"解析函数parse_detail()的说明
-![img4]()
+![img4](https://github.com/ziliang-wang/tubatu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427163920.png)
 ##### ImagesPipeline关键代码块，代码非常的简单，理一下就能够理解代码逻辑！
 ![img3](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_code.png)
