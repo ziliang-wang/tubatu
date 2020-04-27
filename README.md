@@ -4,6 +4,7 @@
 ![img1](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_1.png)
 ##### 2，spider爬虫文件里，有关"详情"解析函数parse_detail()的说明
 ![img4](https://github.com/ziliang-wang/tubatu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427163920.png)
+###### 详情页返回的是json数据(json字符串)，所以需要使用json模块的loads()函数来将json字符串"反序列化"转成与python对应的数据结构，此项目对应的是python字典，同时在for循环体里，再加一个循环判断，判断当前的id等于上层解析函数parse()中meta传过来的装修id，若不加判断，就会全部抓取！
 
 ##### 3，ImagesPipeline关键代码块，代码非常的简单，理一下就能够理解代码逻辑！
 ![img3](https://github.com/ziliang-wang/tubatu/blob/master/images/tubatu_code.png)
